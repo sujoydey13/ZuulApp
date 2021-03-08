@@ -1,5 +1,10 @@
 # Project Title: Railway Reservation System - ZuulApp
 This repository is about the Zuul configuration for implementing API gateway for the project.
+(for backend Booking and Searching Microservice repository go to: https://github.com/GamerbutCoder/RailwayBookingandSearching)
+(for backend Login Microservice repository go to: https://github.com/GamerbutCoder/RailwayLogin)
+(for Register Microservice repository go to: https://github.com/GamerbutCoder/RailwayRegistration)
+(for SearchAPI Microservice repository go to: https://github.com/GamerbutCoder/railwaySearchAPI)
+
 
 <h2>Requirments: </h2>
 <li>JDK 1.8 or later</li>
@@ -16,4 +21,4 @@ This repository is about the Zuul configuration for implementing API gateway for
 <h2>Demo</h2>
 <li>To configure the bookAndSearch</li>
 <p>zuul.routes.railwayRegistration.url=<b>http://10.177.68.53:8081/</b><p>
-<li>Change the bold part to the ip address and port in which the service is running</li>
+<li>Change the blue part to the ip address and port in which the service is running</li>
