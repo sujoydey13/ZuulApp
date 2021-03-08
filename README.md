@@ -1,9 +1,9 @@
 # Project Title: Railway Reservation System - ZuulApp
-This repository is about the Zuul configuration for implementing API gateway for the project.
-(for backend Booking and Searching Microservice repository go to: https://github.com/GamerbutCoder/RailwayBookingandSearching)
-(for backend Login Microservice repository go to: https://github.com/GamerbutCoder/RailwayLogin)
-(for Register Microservice repository go to: https://github.com/GamerbutCoder/RailwayRegistration)
-(for SearchAPI Microservice repository go to: https://github.com/GamerbutCoder/railwaySearchAPI)
+This repository is about the Zuul configuration for implementing API gateway for the project.<br>
+<li>for backend Booking and Searching Microservice repository go to: https://github.com/GamerbutCoder/RailwayBookingandSearching</li>
+<li>for backend Login Microservice repository go to: https://github.com/GamerbutCoder/RailwayLogin</li>
+<li>for Register Microservice repository go to: https://github.com/GamerbutCoder/RailwayRegistration</li>
+<li>for SearchAPI Microservice repository go to: https://github.com/GamerbutCoder/railwaySearchAPI</li>
 
 
 <h2>Requirments: </h2>
